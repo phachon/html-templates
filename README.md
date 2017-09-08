@@ -1,2 +1,2 @@
 # html-templates
-some html template zip
+Summarize some of the HTML templates
