@@ -13,6 +13,6 @@ Summarize some of the HTML templates
 - LTE admin
 ![image](https://github.com/phachon/html-templates/blob/master/LTE-Admin/lte.png)
 
-# Welcome Fork!
+## Welcome Fork!
 
-# By phachon@163.com
+## By phachon@163.com
