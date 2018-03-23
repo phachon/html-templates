@@ -13,6 +13,9 @@ Summarize some of the HTML templates
 - LTE admin
 ![image](https://github.com/phachon/html-templates/blob/master/LTE-Admin/lte.png)
 
+## Notice
+### If there is any infringement, please contact me and delete immediately.
+
 ## Welcome Fork!
 
 ## By phachon@163.com
