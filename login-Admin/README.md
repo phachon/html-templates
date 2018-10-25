@@ -23,3 +23,9 @@ https://github.com/phachon/html-templates/raw/master/login-Admin/Facebook_login.
 
 ### Download
 https://github.com/phachon/html-templates/raw/master/login-Admin/html5_user_login.zip
+
+## 4. 简洁登录
+![image](./lanse.png)
+
+### Download
+https://github.com/phachon/html-templates/raw/master/login-Admin/lansejianjielogin.zip
